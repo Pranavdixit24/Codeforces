@@ -1,2 +1,6 @@
 {
+    "files.associations": {
+        "*.ejs": "html",
+        "skidbusfanumc1,cpp": "cpp"
+    }
 }
